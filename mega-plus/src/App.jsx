@@ -1,4 +1,5 @@
 import Botao from "./Componentes/Botao";
+import Card from "./Componentes/Card";
 import Navegacao from "./Componentes/Navegacao";
 import Sessao from "./Componentes/Sessao";
 import Topo from "./Componentes/Topo";
@@ -30,6 +31,8 @@ function App() {
         descricao="Baixe e assista quando e onde quiser. Assim, seus favoritos estão sempre com você, até mesmo sem internet."
         imagemPosicao="left"
       />
+      
+      <Card />
     </>
   );
 }

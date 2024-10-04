@@ -1,0 +1,7 @@
+.card {
+    background-color: black;
+}
+
+.card-img {
+    filter: hue-rotate(100deg);
+}
