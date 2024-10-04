@@ -1,0 +1,11 @@
+.topo {
+    background-color: #0A4B78;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topo img {
+    width: 10%;
+}

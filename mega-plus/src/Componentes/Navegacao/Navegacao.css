@@ -1,0 +1,24 @@
+.navegacao {
+    border-bottom: 1px solid rgb(220, 220, 220);
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.navegacao a {
+    color: black;
+    text-decoration: none;
+    padding: 0 30px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 0 50px;
+}
+
+#navegacao-inicio{
+    color: #1e73be;
+}
+
+.navegacao a:hover {
+    color: #1e73be;
+}

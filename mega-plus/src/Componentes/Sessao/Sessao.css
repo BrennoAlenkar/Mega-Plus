@@ -1,0 +1,32 @@
+.sessao {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-bottom: 15%;
+    
+}
+
+.sessao img {
+    max-width: 60%;
+}
+
+.sessao-textos {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.sessao-textos h2 {
+    font-size: 40px;
+}
+
+.sessao-textos p {
+    margin-top: 5px;
+    text-align: justify;
+    color: rgb(79, 79, 79);
+}
+
