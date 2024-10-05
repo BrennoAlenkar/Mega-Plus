@@ -1,0 +1,25 @@
+.rodape {
+    background-color: #0A4B78;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+    height: 150px;
+    gap: 10px;
+}
+
+.rodade-titulo h3 {
+    font-size: 25px;
+    padding: 10px;
+}
+
+.rodade-links {
+    margin-bottom: 15px;
+}
+
+.rodade-links a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+}

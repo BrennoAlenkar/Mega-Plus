@@ -1,7 +1,25 @@
 .card {
-    background-color: black;
+    background-color: #313131;
+    text-align: center;
+    border-bottom: 4px solid #fff;
+}
+
+.rodade-card {
+    display: flex;
+    justify-content: center;
+}
+
+.card h3 {
+    color: #fff;
+    padding: 20px;
+    font-size: 27px;
 }
 
 .card-img {
     filter: hue-rotate(100deg);
+}
+
+.card h4 {
+    margin-bottom: 15px;
+    color: #fff;
 }
