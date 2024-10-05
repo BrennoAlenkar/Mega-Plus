@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <Topo />
-      <Navegacao />
+      <Navegacao
+      />
 
       <Sessao
         imagem="/imagens/img.png"
